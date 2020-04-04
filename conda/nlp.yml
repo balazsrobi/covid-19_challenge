@@ -157,5 +157,6 @@ dependencies:
     - torch==1.4.0
     - tqdm==4.44.0
     - transformers==2.6.0
-prefix: /home/cszsolnai/anaconda3/envs/nlp
+    - scholarly==0.2.5
+prefix: ~/anaconda3/envs/nlp
 
